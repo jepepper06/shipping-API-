@@ -1,0 +1,30 @@
+namespace DropShipping.Models;
+
+public enum ECity {
+    CARACAS,
+    PTO_LA_CRUZ,
+    CUMANA,
+    CARUPANO,
+    PTO_PIRITU,
+    LA_GUAIRA,
+    VALENCIA,
+    SAN_FERNANDO,
+    SAN_FELIPE,
+    BARINAS,
+    MERIDA,
+    COJEDES,
+    CORO,
+    SAN_JUAN_DE_LOS_MORROS,
+    PUERTO_AYACUCHO,
+    CIUDAD_BOLIVAR,
+    PTO_ORDAZ,
+    BARCELONA,
+    MARACAY,
+    SAN_CARLOS,
+    BARQUISIMETO,
+    LOS_TEQUES,
+    LA_ASUNCION,
+    SAN_CRISTOBAL,
+    TRUJILLO,
+    MARACAIBO
+}

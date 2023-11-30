@@ -1,0 +1,12 @@
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\bin\Debug\net6.0\DropShipping.Contracts.deps.json
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\bin\Debug\net6.0\DropShipping.Contracts.dll
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\bin\Debug\net6.0\DropShipping.Contracts.pdb
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.csproj.AssemblyReference.cache
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.AssemblyInfoInputs.cache
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.AssemblyInfo.cs
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.csproj.CoreCompileInputs.cache
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.dll
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\refint\DropShipping.Contracts.dll
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\DropShipping.Contracts.pdb
+C:\DesarrolloWeb\dropShipping\DropShipping.Contracts\obj\Debug\net6.0\ref\DropShipping.Contracts.dll
